@@ -1,5 +1,5 @@
 #支持私库
-technitium/dns-server:12.2.1
+apachecn0/apachecn-linux-zh
 
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
