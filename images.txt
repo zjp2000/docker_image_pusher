@@ -1,2 +1,2 @@
 
-hello-world
+docker.io/library/hello-world
