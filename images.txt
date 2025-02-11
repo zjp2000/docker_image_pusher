@@ -1,1 +1,1 @@
-docker.io/library/hello-world
+docker.io/library/node-exporter
