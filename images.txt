@@ -1,3 +1,2 @@
 
-docker.io/library/hello-world
-k8s.io/node-exporter:1.1
+hello-world
