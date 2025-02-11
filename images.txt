@@ -1,5 +1,1 @@
-#支持私库
-prom/node-exporter:v1.8.2
-
-#支持指定架构
-# --platform=linux/arm64 xiaoyaliu/alist
+docker.io/library/hello-world
