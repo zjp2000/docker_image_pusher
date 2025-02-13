@@ -1,4 +1,2 @@
 
-docker.io/library/a
-a/b
-a/b/c
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2 
