@@ -1,4 +1,4 @@
 
-docker.io/library/a
-a/b
-a/b/c
+registry.cn-hangzhou.aliyuncs.com/a
+registry.cn-hangzhou.aliyuncs.com/b
+registry.cn-hangzhou.aliyuncs.com/c
